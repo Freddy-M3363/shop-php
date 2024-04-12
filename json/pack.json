@@ -1,0 +1,66 @@
+{
+    "Transfer-Encoding": "chunked",
+    "Connection": "keep-alive",
+    "Vary": "Accept-Encoding",
+    "CDN-PullZone": "93447",
+    "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+    "CDN-RequestCountryCode": "GB",
+    "Age": "0",
+    "x-weatherapi-qpm-left": "5000000",
+    "CDN-ProxyVer": "1.04",
+    "CDN-RequestPullSuccess": "True",
+    "CDN-RequestPullCode": "200",
+    "CDN-CachedAt": "03/22/2024 20:10:49",
+    "CDN-EdgeStorageId": "1076",
+    "CDN-Status": "200",
+    "CDN-RequestId": "27ff19f2ce50cc5424171bd5e0f1c10b",
+    "CDN-Cache": "HIT",
+    "Cache-Control": "public, max-age=180",
+    "Content-Type": "application/json",
+    "Date": "Fri, 22 Mar 2024 20:10:49 GMT",
+    "Server": "BunnyCDN-DE1-1049",
+    "Via": "1.1 varnish (Varnish/6.0)"
+
+},
+{
+    "location": {
+    "name": "Nairobi",
+    "region": "Nairobi Area",
+    "country": "Kenya",
+    "lat": -1.28,
+    "lon": 36.82,
+    "tz_id": "Africa/Nairobi",
+    "localtime_epoch": 1711137276,
+    "localtime": "2024-03-22 22:54"
+},
+"current": {
+    "last_updated_epoch": 1711136700,
+    "last_updated": "2024-03-22 22:45",
+    "temp_c": 22,
+    "temp_f": 71.6,
+    "is_day": 0,
+    "condition": {
+        "text": "Partly cloudy",
+        "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+        "code": 1003
+    },
+    "wind_mph": 10.5,
+    "wind_kph": 16.9,
+    "wind_degree": 80,
+    "wind_dir": "E",
+    "pressure_mb": 1018,
+    "pressure_in": 30.06,
+    "precip_mm": 0,
+    "precip_in": 0,
+    "humidity": 61,
+    "cloud": 25,
+    "feelslike_c": 24.6,
+    "feelslike_f": 76.2,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "uv": 1,
+    "gust_mph": 12.9,
+    "gust_kph": 20.8
+}
+}
+}
